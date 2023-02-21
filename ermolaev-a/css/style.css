@@ -78,7 +78,7 @@ footer{
 /* Блоки */
 .area-1{
     grid-area: area-1;
-    background-image: url(/img/a1.jpg);
+    background-image: url(img/a1.jpg);
 }
 .area-2{
     grid-area: area-2;
