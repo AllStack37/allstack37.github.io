@@ -72,33 +72,33 @@ footer{
     transition: 1s;
 }
 .area:hover{
-    transform: scale(0.7);
+    transform: scale(1.03);
     transition: 1s;
 }
 /* Блоки */
 .area-1{
     grid-area: area-1;
-    background-image: url(https://www.fortniteintel.com/wp-content/uploads/2019/03/6hl5v7x6c9o21.jpg);
+    background-image: url(/img/a1.jpg);
 }
 .area-2{
     grid-area: area-2;
-    background-image: url(https://gamemag.ru/images/cache/News/News131665/0a1956323d-2_2780x1200.jpg);
+    background-image: url(/img/a2.jpg);
 }
 .area-3{
     grid-area: area-3;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/135/559/641/video-game-fortnite-hd-wallpaper-preview.jpg);
+    background-image: url(/img/a3.jpg);
 }
 .area-4{
     grid-area: area-4;
-    background-image: url(http://pm1.narvii.com/7011/149934e8ad0943c9ca6ef5a0ef672c783afc03f0r1-1280-868v2_uhq.jpg);
+    background-image: url(/img/a4.jpg);
 }
 .area-5{
     grid-area: area-5;
-    background-image: url(https://kartinkin.net/uploads/posts/2022-12/1669917343_5-kartinkin-net-p-fon-fortnait-oboi-5.jpg);
+    background-image: url(/img/a5.jpg);
 }
 .area-6{
     grid-area: area-6;
-    background-image: url(https://thenerdstash.com/wp-content/uploads/2019/08/Fortnite-Season-10-end-Season-11-start.jpg?auto=compress&fm=pjpg&ixlib=php-1.2.1&s=b37afe539883d4f67154d12c8fddb033);
+    background-image: url(/img/a6.webp);
 }
 .carts{
         /* GRID */
